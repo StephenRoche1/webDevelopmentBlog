@@ -1,0 +1,11 @@
+
+/* Example CSS rule for a single question */
+.question-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 2px; /* Adjust the margin as needed */
+}
+.question-row div {
+  margin-right: 100px; /* Adjust the margin between columns as needed */
+}

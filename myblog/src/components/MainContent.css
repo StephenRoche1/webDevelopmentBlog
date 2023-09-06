@@ -1,0 +1,22 @@
+main{
+    padding: 20px;
+}
+h2{
+    font-size: 1.5rem;
+    color: #333;
+}
+p{
+    font-size: 1rem;
+    color: #666;
+}
+
+/* responsive styling */
+@media(max-width: 767px){
+
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
+@media(min-width:992px){
+    
+}
